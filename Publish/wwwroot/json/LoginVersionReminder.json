@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.6",
+    "Name": "fix Q050, no data for SNO, need to change DB ver2"
+  },
+  {
     "Id": "0.9.5",
     "Name": "fix R030"
   },
