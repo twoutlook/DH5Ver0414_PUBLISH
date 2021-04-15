@@ -1,8 +1,13 @@
 [
   {
-    "Id": "0.9.4",
-    "Name": "fix Q010-Q0340, Page on Top"
+    "Id": "0.9.5",
+    "Name": "fix R030"
   },
+  {
+    "Id": "0.9.4",
+    "Name": "fix Q010-Q040, Page on Top"
+  },
+
   {
     "Id": "0.9.3",
     "Name": "Q030 已完成, 使用 Q020 為模板, remove DEL btn"
