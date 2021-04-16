@@ -1,7 +1,11 @@
 [
   {
+    "Id": "0.9.19",
+    "Name": "新建 S050, 左右 Add/Remove 以此為範例"
+  },
+  {
     "Id": "0.9.18",
-    "Name": "整理 S030 cs and designer."
+    "Name": "整理 S040 cs and designer."
   },
   {
     "Id": "0.9.17",
