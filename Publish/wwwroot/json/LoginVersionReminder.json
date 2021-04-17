@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.24",
+    "Name": "M090 is clean with self set. Also implement Toast !"
+  },
+  {
     "Id": "0.9.23",
     "Name": "show S090, TODO: 要決定多語模式 !"
   },
