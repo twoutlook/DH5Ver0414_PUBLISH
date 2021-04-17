@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.32",
+    "Name": "clone P020 to have P030, working well, TODO: tune up "
+  },
+  {
     "Id": "0.9.31",
     "Name": "P020 using FromSqlRaw(strSQL) w/o SP "
   },
