@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.37",
+    "Name": "Rearrange Homepage and grouping"
+  },
+  {
     "Id": "0.9.36",
     "Name": "R050 working, also fixed R080, needs Controller_R000"
   },
