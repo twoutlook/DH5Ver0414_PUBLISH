@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.36",
+    "Name": "R050 working, also fixed R080, needs Controller_R000"
+  },
+  {
     "Id": "0.9.35",
     "Name": "basic R080, using Context_R000 and Service_R000"
   },
