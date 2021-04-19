@@ -1,5 +1,10 @@
 [
   {
+    "Id": "0.9.40",
+    "Name": "fixed bug, P090, PROG_MST Record no found  "
+  },
+
+  {
     "Id": "0.9.39",
     "Name": "R060 在 R040 的基礎上, 要處理 view and entity, decimail => int。"
   },
