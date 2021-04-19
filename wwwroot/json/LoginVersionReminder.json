@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.41",
+    "Name": "fixed R060 在導出 EXCEL 時, 內容和頁面篩選過的不一致。同時 done for Excel filename and sheetname。"
+  },
+  {
     "Id": "0.9.40",
     "Name": "fixed bug, P090, PROG_MST Record no found  "
   },
