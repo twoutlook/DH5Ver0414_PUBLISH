@@ -331,14 +331,14 @@
           "en-US/RadzenDh5.resources.dll": {
             "locale": "en-US"
           },
+          "th-TH/RadzenDh5.resources.dll": {
+            "locale": "th-TH"
+          },
           "zh-CHS/RadzenDh5.resources.dll": {
             "locale": "zh-CHS"
           },
           "zh-CHT/RadzenDh5.resources.dll": {
             "locale": "zh-CHT"
-          },
-          "th-TH/RadzenDh5.resources.dll": {
-            "locale": "th-TH"
           }
         },
         "compile": {
