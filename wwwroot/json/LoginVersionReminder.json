@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.44 P090 PDA",
+    "Name": "for quick dev testing, auth checking and write to db are skipped  "
+  },
+  {
     "Id": "0.9.43",
     "Name": "dimension , for PDA 800X480 concern  "
   },
