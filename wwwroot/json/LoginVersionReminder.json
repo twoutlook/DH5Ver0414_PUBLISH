@@ -1,7 +1,11 @@
 [
   {
+    "Id": "0.9.43",
+    "Name": "dimension , for PDA 800X480 concern  "
+  },
+  {
     "Id": "0.9.42",
-    "Name": "暫時不對 P070 P090 做 Role權限要求  ",
+    "Name": "暫時不對 P070 P090 做 Role權限要求  "
   },
   {
     "Id": "0.9.41",
