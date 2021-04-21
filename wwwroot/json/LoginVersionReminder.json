@@ -1,5 +1,13 @@
 [
   {
+    "Id": "0.9.49 ",
+    "Name": "第一批次交付  "
+  },
+  {
+    "Id": "0.9.48 ",
+    "Name": "quick TODO  "
+  },
+  {
     "Id": "0.9.47 ",
     "Name": "show up LOC_DTL =>P070 測試時,可以改 STGE_TYPE, 不然 2版 DHDB 沒有現成資料可以測  "
   },
