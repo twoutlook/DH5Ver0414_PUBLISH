@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.47 ",
+    "Name": "show up LOC_DTL =>P070 測試時,可以改 STGE_TYPE, 不然 2版 DHDB 沒有現成資料可以測  "
+  },
+  {
     "Id": "0.9.46 Week2",
     "Name": "show up DH_USER_LOG   "
   },
