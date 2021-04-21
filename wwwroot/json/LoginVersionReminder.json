@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.9.45 04/21 release",
+    "Name": "視同為項目正式啟動的第二版本, 項目預計六周完成, 需保持六個不同階段的獨立版本,包括各自SQL instance 的同名 DHDB   "
+  },
+  {
     "Id": "0.9.44 P090 PDA",
     "Name": "for quick dev testing, auth checking and write to db are skipped  "
   },
