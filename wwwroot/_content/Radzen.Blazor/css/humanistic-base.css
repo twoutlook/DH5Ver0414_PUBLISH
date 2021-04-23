@@ -1884,19 +1884,18 @@ ul.rz-profile-menu {
 
 .rz-spinner {
   display: inline-block;
-  position: relative; }
+  position: relative;
+  padding: 0px; }
   .rz-spinner input[type='number'],
   .rz-spinner input[type='text'] {
     -moz-appearance: textfield;
     width: 100%;
+    height: 100%;
     border: none;
     background-color: transparent;
     line-height: 1.5rem;
     text-align: inherit;
-    padding: 1px 12px 1px 1px; }
-    .rz-spinner input[type='number']:focus,
-    .rz-spinner input[type='text']:focus {
-      outline: none; }
+    padding: 1px 12px 1px 0.5rem; }
     .rz-spinner input[type='number']::-webkit-inner-spin-button, .rz-spinner input[type='number']::-webkit-outer-spin-button,
     .rz-spinner input[type='text']::-webkit-inner-spin-button,
     .rz-spinner input[type='text']::-webkit-outer-spin-button {
