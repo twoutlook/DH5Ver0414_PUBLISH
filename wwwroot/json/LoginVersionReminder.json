@@ -1,7 +1,15 @@
 [
   {
-    "Id": "0.9.53 ",
-    "Name": "local login (all pass) for m2 MENU "
+    "Id": "0.10.3 ",
+    "Name": "done, S 系列 導航  "
+  },
+  {
+    "Id": "0.10.2 ",
+    "Name": "done, 同步 WES 用戶到 Asp.Net Core Identity "
+  },
+  {
+    "Id": "0.10.1 ",
+    "Name": "重整 04/28 版本, TODO: 同步用戶(含密碼), 不同步權限. 以 ASP.NET CORE Identity 登入, 直接使用 PROG_WRT 生成菜單和權限管控  "
   },
   {
     "Id": "0.9.52 ",
