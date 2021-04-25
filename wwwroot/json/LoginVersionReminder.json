@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.10.9 ",
+    "Name": "Implement DhAppContainer to have IsOnUserMenu  [no authorization to visit] "
+  },
+  {
     "Id": "0.10.8 ",
     "Name": "S080 User Login Password Change 完成。包括建立了 Log 機制, 要在頁面顯示 USER_LOG, at least for admin "
   },
