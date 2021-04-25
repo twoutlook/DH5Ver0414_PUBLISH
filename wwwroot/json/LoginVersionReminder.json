@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.10.10 ",
+    "Name": "Menu 顯示在頁面左中右三分區, 可以一次性看到所有的PROGRAM "
+  },
+  {
     "Id": "0.10.9 ",
     "Name": "Implement DhAppContainer to have IsOnUserMenu  [no authorization to visit] "
   },
