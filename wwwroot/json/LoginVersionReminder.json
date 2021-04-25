@@ -1,5 +1,9 @@
 [
   {
+    "Id": "0.10.7 ",
+    "Name": "實施在訪問登入畫面時, 同步帳號。 "
+  },
+  {
     "Id": "0.10.6 ",
     "Name": "done, Edit USER_MST 密碼加密, 驗証了在 WebAPP 改的密碼, 可以在 WES 使用. TODO (1) Add USER_MST  (2)觸發同步才能在 WwbAPP登入 "
   },
